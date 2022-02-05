@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamdingkai
-- 👀 I’m interested in numerical programming, simulation, analysis of economic and business data
-- 🌱 I’m currently learning Python and R
+- 👀 I’m interested in numerical programming in Python/Matlab, simulation, analysis of economic and business data
+- 🌱 I’m currently learning deep learning concepts
 - 💞️ I’m looking to collaborate on real-world applications of machine learning tools
 - 📫 How to reach me: direct message welcome
 
